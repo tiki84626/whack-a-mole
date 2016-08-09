@@ -1,5 +1,5 @@
 img {
-
+  padding: 20px;
 }
 
 #text-hidden {
@@ -7,5 +7,10 @@ img {
 }
 
 .clickable {
+  padding: 20px;
+}
 
+#title {
+  padding: 20px;
+  font-size: 25px;
 }
